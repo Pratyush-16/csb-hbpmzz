@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pratyush-16.github.io/csb-hbpmzz/static/css/main.f617b974.chunk.css",
+    "main.js": "https://pratyush-16.github.io/csb-hbpmzz/static/js/main.1dcbd04f.chunk.js",
+    "main.js.map": "https://pratyush-16.github.io/csb-hbpmzz/static/js/main.1dcbd04f.chunk.js.map",
+    "runtime-main.js": "https://pratyush-16.github.io/csb-hbpmzz/static/js/runtime-main.4b99c78c.js",
+    "runtime-main.js.map": "https://pratyush-16.github.io/csb-hbpmzz/static/js/runtime-main.4b99c78c.js.map",
+    "static/js/2.254d30f6.chunk.js": "https://pratyush-16.github.io/csb-hbpmzz/static/js/2.254d30f6.chunk.js",
+    "static/js/2.254d30f6.chunk.js.map": "https://pratyush-16.github.io/csb-hbpmzz/static/js/2.254d30f6.chunk.js.map",
+    "index.html": "https://pratyush-16.github.io/csb-hbpmzz/index.html",
+    "static/css/main.f617b974.chunk.css.map": "https://pratyush-16.github.io/csb-hbpmzz/static/css/main.f617b974.chunk.css.map",
+    "static/js/2.254d30f6.chunk.js.LICENSE.txt": "https://pratyush-16.github.io/csb-hbpmzz/static/js/2.254d30f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b99c78c.js",
+    "static/js/2.254d30f6.chunk.js",
+    "static/css/main.f617b974.chunk.css",
+    "static/js/main.1dcbd04f.chunk.js"
+  ]
+}
